@@ -1,0 +1,14 @@
+.score-container {
+  display: flex;
+}
+
+.score {
+  font-family: var(--text-rounded);
+  color: var(--cream);
+  margin: 20px;
+}
+
+.score > h2 {
+  font-size: 40px;
+  margin-top: -15px;
+}
